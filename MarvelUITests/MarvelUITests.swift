@@ -1,10 +1,4 @@
-//
-//  MarvelUITests.swift
-//  MarvelUITests
-//
-//  Created by Iman Adly Mohamed Saleh on 8/5/19.
-//  Copyright © 2019 Vezeeta. All rights reserved.
-//
+
 
 import XCTest
 

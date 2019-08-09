@@ -1,10 +1,4 @@
-//
-//  MarvelTests.swift
-//  MarvelTests
-//
-//  Created by Iman Adly Mohamed Saleh on 8/5/19.
-//  Copyright © 2019 Vezeeta. All rights reserved.
-//
+
 
 import XCTest
 @testable import Marvel
@@ -22,6 +16,8 @@ class MarvelTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+        
+        
     }
 
     func testPerformanceExample() {
